@@ -1,3 +1,3 @@
-# recipes
+# Random Recipes
 
 Random Delicious Recipes!!!
